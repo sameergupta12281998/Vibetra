@@ -1,6 +1,13 @@
 # MusicStreamApp (Java, Android)
 
-A Spotify-like Android music streaming app built with Java and free/legal APIs.
+An Android music streaming app built with Java and public, legal music APIs.
+
+## Legal Notice
+
+- Vibetra is an independent application and is not affiliated with, endorsed by, or sponsored by Spotify, YouTube, Google, Audius, or Jamendo.
+- All music, artwork, and metadata belong to their respective owners and/or licensors.
+- The app does not provide tools to download, rip, or extract copyrighted audio from third-party platforms.
+- YouTube API data is used for metadata/search fallback only; playback is limited to tracks with permitted direct stream URLs.
 
 ## Features
 

@@ -10,8 +10,8 @@
 # ---- Gson / JSON model DTOs ----
 -keepattributes *Annotation*
 -keep class com.google.gson.** { *; }
--keep class com.example.musicstreamapp.data.network.dto.** { *; }
--keep class com.example.musicstreamapp.data.model.** { *; }
+-keep class com.vibetra.app.data.network.dto.** { *; }
+-keep class com.vibetra.app.data.model.** { *; }
 
 # ---- Room ----
 -keep class * extends androidx.room.RoomDatabase

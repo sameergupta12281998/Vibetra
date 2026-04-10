@@ -1,17 +1,17 @@
-#Fri Apr 10 10:51:48 IST 2026
-base.0=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.10=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
-base.11=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.12=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
-base.2=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.4=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.5=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.6=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.7=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
-base.8=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.9=/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+#Fri Apr 10 12:45:12 IST 2026
+base.0=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.10=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+base.11=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.12=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+base.2=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.4=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.5=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.6=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.7=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+base.8=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.9=/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=7/classes.dex

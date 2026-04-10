@@ -4,23 +4,6 @@
             "outputFile": "com.vibetra.app-mergeDebugResources-51:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/sameergupta/AndroidStudioProjects/MusicStreamApp/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "83",
-                        "endOffsets": "134"
-                    },
-                    "to": {
-                        "startLines": "35",
-                        "startColumns": "4",
-                        "startOffsets": "3575",
-                        "endColumns": "82",
-                        "endOffsets": "3653"
-                    }
-                },
-                {
                     "source": "/Users/sameergupta/.gradle/caches/transforms-4/aba6333dd9328ca586e8b157cea98437/transformed/appcompat-1.7.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -52,6 +35,23 @@
                         "startOffsets": "687,762,873,962,1063,1170,1277,1376,1483,1586,1713,1801,1925,2027,2129,2245,2347,2461,2589,2705,2827,2963,3083,3217,3337,3449,3747,3864,3988,4118,4240,4378,4512,4628",
                         "endColumns": "74,110,88,100,106,106,98,106,102,126,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "757,868,957,1058,1165,1272,1371,1478,1581,1708,1796,1920,2022,2124,2240,2342,2456,2584,2700,2822,2958,3078,3212,3332,3444,3570,3859,3983,4113,4235,4373,4507,4623,4743"
+                    }
+                },
+                {
+                    "source": "/Users/sameergupta/Documents/GitHub/Vibetra/MusicStreamApp/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "83",
+                        "endOffsets": "134"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3575",
+                        "endColumns": "82",
+                        "endOffsets": "3653"
                     }
                 }
             ]

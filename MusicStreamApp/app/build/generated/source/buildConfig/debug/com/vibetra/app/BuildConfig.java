@@ -7,8 +7,8 @@ public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
   public static final String APPLICATION_ID = "com.vibetra.app";
   public static final String BUILD_TYPE = "debug";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0";
+  public static final int VERSION_CODE = 4;
+  public static final String VERSION_NAME = "1.0.3";
   // Field from default config.
   public static final String ADMOB_BANNER_UNIT_ID = "ca-app-pub-7729809718068466/8004790784";
   // Field from default config.

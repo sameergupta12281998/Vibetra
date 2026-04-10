@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.4.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.musicstreamapp.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="NotificationPermission">
+        <entry
+            name="className"
+            string="com/google/android/exoplayer2/util/NotificationUtil"/>
+        <location id="class"
+            file="$GRADLE_USER_HOME/caches/transforms-4/b964a56ca123eac6b8a433895aec31e0/transformed/exoplayer-common-2.19.1/jars/classes.jar"/>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.black"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="12"
+            column="12"
+            startOffset="475"
+            endLine="12"
+            endColumn="24"
+            endOffset="487"/>
+        <entry
+            name="model"
+            string="attr[selectableItemBackground(R),selectableItemBackgroundBorderless(R)],color[nav_item_color(U),nav_active(U),nav_inactive(U),surface_card(U),accent_teal(U),text_primary(U),bg_primary(U),bg_secondary(U),text_muted(U),error_red(U),white(U),black(D)],drawable[bg_card(U),bg_circle_button(U),bg_circle_button_accent(U),bg_input(U),bg_playlist_chip(U),ic_add(U),ic_close(U),ic_favorite(U),ic_home(U),ic_music_note(U),ic_next(U),ic_pause(U),ic_play(U),ic_playlist(U),ic_prev(U),ic_search(U),abc_ic_ab_back_material(R)],id[toolbar(U),fragmentContainer(U),miniPlayer(U),bottomNav(U),ivMiniArtwork(U),tvMiniTitle(U),tvMiniArtist(U),btnMiniPlayPause(U),ivPlayerArtwork(U),tvPlayerTitle(U),tvPlayerArtist(U),seekPlayer(U),tvCurrentTime(U),tvTotalTime(U),btnPrev(U),btnPlayPause(U),btnNext(U),tvPlayMode(U),btnRewardHd(U),adViewFavorites(U),rvFavorites(U),tvFavoritesEmpty(U),swipeRefreshHome(U),adViewHome(U),rvTrending(U),rvPopular(U),rvAlbums(U),tvHomeError(U),progressHome(U),adViewPlaylist(U),etPlaylistName(U),btnCreatePlaylist(U),rvPlaylists(U),rvPlaylistTracks(U),tvPlaylistEmpty(U),searchBarContainer(D),etSearch(U),btnClear(U),adViewSearch(U),contentContainer(D),emptyStateScroll(U),tvClearHistory(U),rvRecentSearches(U),tvEmptyHistory(U),gridBrowseCategories(D),searchResultsContainer(U),progressSearch(U),rvSearch(U),tvNoResults(U),rvSectionedList(U),rvGrid(U),rvHorizontalCarousel(U),ivPlaylistCover(U),tvPlaylistName(U),tvPlaylistCount(U),btnDeletePlaylist(U),tvSearch(U),btnRemove(U),tvSectionTitle(U),tvContent(U),ivThumbnail(U),tvTrackTitle(U),tvTrackArtist(U),tvTrackDuration(U),btnAddToPlaylist(U),btnFavorite(U),btnPlay(U),rvVerticalList(U),nav_home(U),nav_search(U),nav_favorites(U),nav_playlist(U)],layout[activity_main(U),activity_player(U),fragment_favorites(U),fragment_home(U),fragment_playlist(U),fragment_playlist_tracks(U),fragment_search(U),fragment_sectioned_demo(U),item_grid_list(U),item_horizontal_list(U),item_playlist(U),item_recent_search(U),item_section_header(U),item_simple_content(U),item_track(U),item_track_row(U),item_vertical_list(U)],menu[bottom_nav_menu(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],string[app_name(U),play_pause(U),play_mode_sequence(U),unlock_hd(U),no_favorites(U),trending_tracks(U),popular_tracks(U),albums(U),playlist_name(U),create(U),your_playlists(U),no_playlist_tracks(U),search(U),search_hint(U),clear(U),recent_searches(U),clear_all(U),no_recent_searches(U),browse_all(U),no_results(U),delete_playlist(U),remove(U),add_to_playlist(U),favorite(U),home(U),favorites(U),playlist(U),search_prompt(D),playlist_tracks(U),removed_from_playlist(U),hd_unlocked(U),buffering(U),error_no_internet(U),youtube_fallback_note(U),playback_channel_name(U),playlist_song_count(U),delete_playlist_message(U),delete(U),cancel(U),playlist_deleted(U),play_mode_shuffle(U)],style[Theme_MusicStreamApp(U),Theme_Material3_Dark_NoActionBar(R),Widget_MusicStream_Button(U),Widget_Material3_Button(R)];2^3^4,e^5,f^5,10^6,11^5,12^6^5,13^7,14^4,15^4,16^4,17^7,18^7,1b^4,1c^7,1d^4,67^8^9^7b^7^21^1f^0^5^22^e^a^10^7c^19^2^78,68^8^e^7^a^f^1c^10^19^18^12^7d^7e,69^8^7f^a,6a^8^80^7^81^82^b,6b^8^11^83^7^a^84^85,6c^8^86^a,6d^5^87^1d^a^88^7^1^89^14^8a^8b^6^8c^8d^8e,6e^8,71^e^7^a^1^8f^14,72^5^87^1d^a^7^1^90^14,73^7,74^5^7,75^e^17^7^a^91^13^92^15^6,76^e^17^7^a^91^13^92^15^6^10^7c^1a,78^16^93^1d^87^15^94^1b^95,79^c^17,7a^c^17,a4^a5^8^6^9^7^a^a6,a6^a7^6^c;;;"/>
+        <location id="R.string.search_prompt"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="12"
+            column="13"
+            startOffset="505"
+            endLine="12"
+            endColumn="33"
+            endOffset="525"/>
+    </map>
+
+</incidents>

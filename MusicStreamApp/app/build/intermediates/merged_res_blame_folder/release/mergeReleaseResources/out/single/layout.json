@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_vertical_list.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_vertical_list.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_home.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_grid_list.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_grid_list.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_horizontal_list.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_horizontal_list.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/activity_player.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_playlist.xml",
+        "source": "com.example.musicstreamapp-main-54:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_search.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_track.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_track.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_section_header.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_section_header.xml"
+    },
+    {
+        "merged": "com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_search.xml",
+        "source": "com.example.musicstreamapp-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_recent_search.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_recent_search.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_sectioned_demo.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_sectioned_demo.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_playlist_tracks.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_playlist_tracks.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_playlist.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_playlist.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_simple_content.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_simple_content.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/item_track_row.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/item_track_row.xml"
+    },
+    {
+        "merged": "com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_favorites.xml",
+        "source": "com.example.musicstreamapp-main-54:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_playlist.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_favorites.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.musicstreamapp-mergeReleaseResources-52:/layout/fragment_home.xml",
+        "source": "com.example.musicstreamapp-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-mergeReleaseResources-52:/layout/activity_main.xml",
+        "source": "/Users/sameergupta/.gradle/daemon/8.6/com.example.musicstreamapp-main-54:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_teal">#1DB954</color>
+    <color name="bg_primary">#121212</color>
+    <color name="bg_secondary">#181818</color>
+    <color name="black">#000000</color>
+    <color name="error_red">#FF6B6B</color>
+    <color name="nav_active">#1DB954</color>
+    <color name="nav_inactive">#8A8A8A</color>
+    <color name="surface_card">#242424</color>
+    <color name="text_muted">#B3B3B3</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="albums">Albums</string>
+    <string name="app_name">Vibetra</string>
+    <string name="browse_all">Browse All</string>
+    <string name="buffering">Buffering...</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="clear_all">Clear all</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="delete_playlist">Delete playlist</string>
+    <string name="delete_playlist_message">Delete %1$s playlist and all songs?</string>
+    <string name="error_no_internet">No internet connection. Pull to retry.</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Favorites</string>
+    <string name="hd_unlocked">HD streaming unlocked</string>
+    <string name="home">Home</string>
+    <string name="home_hero_subtitle">Fresh picks inspired by your vibe</string>
+    <string name="home_hero_title">Your Daily Mix</string>
+    <string name="no_favorites">No favorites yet</string>
+    <string name="no_playlist_tracks">No tracks in selected playlist</string>
+    <string name="no_recent_searches">No recent searches</string>
+    <string name="no_results">No matching songs found</string>
+    <string name="play_mode_sequence">SEQUENTIAL</string>
+    <string name="play_mode_shuffle">SHUFFLE</string>
+    <string name="play_pause">Play or pause playback</string>
+    <string name="playback_channel_name">Music Playback</string>
+    <string name="playlist">Playlist</string>
+    <string name="playlist_deleted">Playlist deleted</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="playlist_song_count">%1$d songs</string>
+    <string name="playlist_tracks">Playlist Tracks</string>
+    <string name="popular_tracks">Popular Tracks</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="remove">Remove</string>
+    <string name="removed_from_playlist">Removed from playlist</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search songs or artists</string>
+    <string name="search_prompt">Find music from Audius with YouTube fallback</string>
+    <string name="trending_tracks">Trending Songs</string>
+    <string name="unlock_hd">Watch ad to unlock HD (1 hour)</string>
+    <string name="your_playlists">Your Playlists</string>
+    <string name="youtube_fallback_note">This YouTube result has no direct legal audio stream URL.</string>
+    <string name="youtube_results_attribution">YouTube results — YouTube™ is a trademark of Google LLC</string>
+    <style name="Theme.MusicStreamApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="colorPrimary">@color/accent_teal</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/accent_teal</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSurface">@color/bg_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorControlActivated">@color/accent_teal</item>
+        <item name="android:navigationBarColor">@color/bg_secondary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_muted</item>
+        <item name="materialButtonStyle">@style/Widget.MusicStream.Button</item>
+    </style>
+    <style name="Widget.MusicStream.Button" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/accent_teal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

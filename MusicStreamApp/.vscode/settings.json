@@ -1,0 +1,7 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "./gradlew": true,
+        "gradle :app:assembleDebug": true,
+        "adb": true
+    }
+}

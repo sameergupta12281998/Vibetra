@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_recent_search.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_recent_search.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_playlist.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_playlist_tracks.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_playlist_tracks.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_track_row.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_track_row.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_sectioned_demo.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_sectioned_demo.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_search.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_section_header.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_section_header.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_grid_list.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_grid_list.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_simple_content.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_simple_content.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_vertical_list.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_vertical_list.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_track.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_track.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_horizontal_list.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_horizontal_list.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/activity_player.xml",
+        "source": "com.vibetra.app-main-55:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/fragment_favorites.xml",
+        "source": "com.vibetra.app-main-55:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.vibetra.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vibetra.app-mergeDebugResources-52:/layout/item_playlist.xml",
+        "source": "com.vibetra.app-main-55:/layout/item_playlist.xml"
+    }
+]
